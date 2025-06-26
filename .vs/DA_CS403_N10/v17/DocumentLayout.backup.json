@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tai Lieu Hoc Tap\\CS 403 SA\\TRIENKHAI\\DA_CS403_N10\\DA_CS403_N10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FA5739-BC5B-4596-A156-2B2A087FCBD6}|DA_CS403_N10\\DA_CS403_N10.csproj|e:\\tai lieu hoc tap\\cs 403 sa\\trienkhai\\da_cs403_n10\\da_cs403_n10\\da_cs403_n10\\webform\\vanglai\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E1FA5739-BC5B-4596-A156-2B2A087FCBD6}|DA_CS403_N10\\DA_CS403_N10.csproj|solutionrelative:da_cs403_n10\\webform\\vanglai\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "trangchu.aspx",
+              "DocumentMoniker": "E:\\Tai Lieu Hoc Tap\\CS 403 SA\\TRIENKHAI\\DA_CS403_N10\\DA_CS403_N10\\DA_CS403_N10\\WebForm\\VangLai\\trangchu.aspx",
+              "RelativeDocumentMoniker": "DA_CS403_N10\\WebForm\\VangLai\\trangchu.aspx",
+              "ToolTip": "E:\\Tai Lieu Hoc Tap\\CS 403 SA\\TRIENKHAI\\DA_CS403_N10\\DA_CS403_N10\\DA_CS403_N10\\WebForm\\VangLai\\trangchu.aspx",
+              "RelativeToolTip": "DA_CS403_N10\\WebForm\\VangLai\\trangchu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-26T03:29:26.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
